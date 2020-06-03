@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.kanfeidie.com/about/index.html</loc>
+    
+    <lastmod>2020-06-03T10:43:16.293Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.kanfeidie.com/links/index.html</loc>
+    
+    <lastmod>2020-06-03T10:43:06.283Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.kanfeidie.com/books/index.html</loc>
+    
+    <lastmod>2020-06-03T10:42:54.828Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.kanfeidie.com/repository/index.html</loc>
+    
+    <lastmod>2020-06-03T10:42:44.085Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.kanfeidie.com/tags/index.html</loc>
+    
+    <lastmod>2020-06-03T10:41:20.574Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.kanfeidie.com/categories/index.html</loc>
+    
+    <lastmod>2020-06-03T10:40:12.967Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.kanfeidie.com/2020/06/03/JesonChows-blog/</loc>
     
     <lastmod>2020-06-03T09:46:52.054Z</lastmod>
